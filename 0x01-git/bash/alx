@@ -1,7 +1,1 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "ALX Scholl is so col!"
-=======
-echo "ALX School"
->>>>>>> update_script
-
+echo "ALX Schll"
